@@ -37,4 +37,4 @@ JLPT Vocab data from Mr.Jonathan Waller.
 ### Contact
 [Facebook](https://www.facebook.com/memoriseJlptVocab)
 
-Email: aungthuwinappdev@gmail.com
+Email: aungthuwinappdev@gmail.com 
