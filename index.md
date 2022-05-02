@@ -32,7 +32,7 @@ JLPT Vocab data from Mr.Jonathan Waller.
 [Download from  Play Store](https://play.google.com/store/apps/details?id=com.atwappdev.memorise)
 
 ### Privacy Policy
-[Privacy Policy](https://atwappdev.github.io/MemoriseJLPTVocab/privacy_policy)
+[Privacy Policy](https://atwappdev.github.io/privacy_policy)
 
 ### Contact
 [Facebook](https://www.facebook.com/memoriseJlptVocab)
