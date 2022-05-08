@@ -27,9 +27,29 @@ JLPT Vocab data from Mr.Jonathan Waller.
 [http://www.tanos.co.uk/jlpt/](http://www.tanos.co.uk/jlpt/)
 
 ### Downloads
-[Download from App Store](https://apps.apple.com/app/id1611173052)
+#### [Download from App Store](https://apps.apple.com/app/id1611173052)
+[![alt text][image]][hyperlink]
 
-[Download from  Play Store](https://play.google.com/store/apps/details?id=com.atwappdev.memorise)
+[hyperlink]: https://apps.apple.com/app/id1611173052
+[image]:
+https://github.com/ATWAppDev/ATWAppDev.github.io/blob/main/assets/img/appstore.png
+(Download from App Store)
+
+#### [Download from Play Store](https://play.google.com/store/apps/details?id=com.atwappdev.memorise)
+[![alt text1][image1]][hyperlink1]
+
+[hyperlink1]: https://play.google.com/store/apps/details?id=com.atwappdev.memorise
+[image1]:
+https://github.com/ATWAppDev/ATWAppDev.github.io/blob/main/assets/img/playstore.png
+(Download from Play Store)
+
+#### [Download from ApkPure](https://apkpure.com/memorise-jlpt-vocab/com.atwappdev.memorise)
+[![alt text1][image2]][hyperlink2]
+
+[hyperlink2]: https://apkpure.com/memorise-jlpt-vocab/com.atwappdev.memorise
+[image2]:
+https://github.com/ATWAppDev/ATWAppDev.github.io/blob/main/assets/img/apkpure.png
+(Download from ApkPure)
 
 ### Privacy Policy
 [Privacy Policy](https://atwappdev.github.io/privacy_policy)
