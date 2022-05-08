@@ -32,7 +32,7 @@ JLPT Vocab data from Mr.Jonathan Waller.
 
 [hyperlink]: https://apps.apple.com/app/id1611173052
 [image]:
-./assets/images/appstore.png
+./docs/assets/images/appstore.png
 (Download from App Store)
 
 #### [Download from Play Store](https://play.google.com/store/apps/details?id=com.atwappdev.memorise)
@@ -40,7 +40,7 @@ JLPT Vocab data from Mr.Jonathan Waller.
 
 [hyperlink1]: https://play.google.com/store/apps/details?id=com.atwappdev.memorise
 [image1]:
-./assets/images/playstore.png
+./docs/assets/images/playstore.png
 (Download from Play Store)
 
 #### [Download from ApkPure](https://apkpure.com/memorise-jlpt-vocab/com.atwappdev.memorise)
@@ -48,7 +48,7 @@ JLPT Vocab data from Mr.Jonathan Waller.
 
 [hyperlink2]: https://apkpure.com/memorise-jlpt-vocab/com.atwappdev.memorise
 [image2]:
-./assets/images/apkpure.png
+./docs/assets/images/apkpure.png
 (Download from ApkPure)
 
 ### Privacy Policy
