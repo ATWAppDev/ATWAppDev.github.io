@@ -4,5 +4,5 @@ plugins:
 title: Memorise - JLPT Vocab
 description: Let's learn Japanese words
 url: 'https://ATWAppDev.github.io/' # your main domain
-baseurl: 'ATWAppDev.github.io/' # if you're using custom domain keep this blank example: baseurl: ''
+baseurl: '' # if you're using custom domain keep this blank example: baseurl: ''
 
