@@ -27,15 +27,13 @@ JLPT Vocab data from Mr.Jonathan Waller.
 [http://www.tanos.co.uk/jlpt/](http://www.tanos.co.uk/jlpt/)
 
 ### Downloads
+##### -----------------------------
 #### [Download from App Store](https://apps.apple.com/app/id1611173052)
-
 #### [Download from Play Store](https://play.google.com/store/apps/details?id=com.atwappdev.memorise)
-
 #### [Download from ApkPure](https://apkpure.com/memorise-jlpt-vocab/com.atwappdev.memorise)
-
 #### [Download from Aptoide](https://memorise.en.aptoide.com/app)
-   
-  
+##### -----------------------------
+
 ### Privacy Policy
 [Privacy Policy](https://atwappdev.github.io/privacy_policy)
 
