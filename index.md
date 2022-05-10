@@ -33,6 +33,9 @@ JLPT Vocab data from Mr.Jonathan Waller.
 
 #### [Download from ApkPure](https://apkpure.com/memorise-jlpt-vocab/com.atwappdev.memorise)
 
+#### [Download from Aptoide](https://memorise.en.aptoide.com/app)
+   
+  
 ### Privacy Policy
 [Privacy Policy](https://atwappdev.github.io/privacy_policy)
 
