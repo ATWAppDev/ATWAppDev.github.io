@@ -29,23 +29,15 @@ Burmese data from JLPT Kotoba app & Google Translate
 Audio data from Google Translate
 [https://translate.google.com/](https://translate.google.com/)
 
-Special thanks:
-JLPT Vocab data from Mr.Jonathan Waller.
-[http://www.tanos.co.uk/jlpt/](http://www.tanos.co.uk/jlpt/)
-
 ### Downloads(iOS)
-##### ------------------------------------------
-#### [Download from App Store](https://apps.apple.com/app/id1611173052)
-##### ------------------------------------------
+#### ・[Download from App Store](https://apps.apple.com/app/id1611173052)
 ### Downloads(Android)
-##### ------------------------------------------
-#### [Download from Play Store](https://play.google.com/store/apps/details?id=com.atwappdev.memorise)
-##### ------------------------------------------
+#### ・[Download from Play Store](https://play.google.com/store/apps/details?id=com.atwappdev.memorise)
 
 ### Privacy Policy
-[Privacy Policy](https://atwappdev.github.io/jlpt_vocab_mm_privacy_policy)
+・[Privacy Policy](https://atwappdev.github.io/jlpt_vocab_mm_privacy_policy)
 
 ### Contact
-[Facebook](https://www.facebook.com/memoriseJlptVocab)
+・[Facebook(Memorise - JLPT Vocab)](https://www.facebook.com/memoriseJlptVocab)
 
 Email: aungthuwinappdev@gmail.com 
