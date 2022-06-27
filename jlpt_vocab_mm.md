@@ -3,32 +3,32 @@
 ## JLPT Vocab Myanmar
 Thanks for using JLPT Vocab Myanmar.
 
-We love words.
-Words are the building blocks of a language.
+We love words.  
+Words are the building blocks of a language.  
 Let's build your Japanese language using JLPT Vocab Myanmar.
 
-JLPT Vocab Myanmar is a JLPT vocab memoriser.
+JLPT Vocab Myanmar is a JLPT vocab memoriser.  
 You can study all vocabs needed for JLPT(N5~N1).
 
-To use this app:
-You just need to know
+To use this app:  
+You just need to know  
 あいうえお, アイウエオ.
 
-You can:
-study words.
-practise words.
-view list of words.
+You can:  
+study words.  
+practise words.  
+view list of words.  
 memorise by listening words.
 
-Special thanks:
-JLPT Vocab data from Mr.Jonathan Waller.
+Special thanks:  
+JLPT Vocab data from Mr.Jonathan Waller.  
 [http://www.tanos.co.uk/jlpt/](http://www.tanos.co.uk/jlpt/)
 
-Burmese data from JLPT Kotoba app & Google Translate
-[App Store](https://apps.apple.com/app/id1481714466)
+Burmese data from JLPT Kotoba app & Google Translate  
+[App Store](https://apps.apple.com/app/id1481714466)  
 [Play Store](https://play.google.com/store/apps/details?id=edu.thuthuthura.jlpt_kotoba)
 
-Audio data from Google Translate
+Audio data from Google Translate  
 [https://translate.google.com/](https://translate.google.com/)
 
 ### Downloads(iOS)
@@ -38,9 +38,7 @@ Audio data from Google Translate
 ・(Coming soon)  [Download from Play Store](https://play.google.com/store/apps/details?id=com.atwappdev.jlptvocabmm)
 
 ### Downloads(Android)(Others)
-・(Coming soon)  [Download from Amazon App Store](https://www.amazon.com/gp/product/B0B54PFN7V)
-
-
+・(Coming soon)  [Download from Amazon App Store](https://www.amazon.com/gp/product/B0B54PFN7V)  
 ・(Coming soon)  [Download from ApkPure](https://apkpure.com/jlpt-vocab-mm/com.atwappdev.jlptvocabmm)
 
 ### Privacy Policy
