@@ -1,3 +1,5 @@
+[Go to Home](https://atwappdev.github.io) 
+
 ## JLPT Vocab Myanmar
 Thanks for using JLPT Vocab Myanmar.
 
@@ -30,9 +32,10 @@ Audio data from Google Translate
 [https://translate.google.com/](https://translate.google.com/)
 
 ### Downloads(iOS)
-#### ・[Download from App Store](https://apps.apple.com/app/id1611173052)
+・[Download from App Store](https://apps.apple.com/app/id1611173052)
+
 ### Downloads(Android)
-#### ・[Download from Play Store](https://play.google.com/store/apps/details?id=com.atwappdev.memorise)
+・[Download from Play Store](https://play.google.com/store/apps/details?id=com.atwappdev.memorise)
 
 ### Privacy Policy
 ・[Privacy Policy](https://atwappdev.github.io/jlpt_vocab_mm_privacy_policy)
