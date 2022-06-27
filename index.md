@@ -1,5 +1,10 @@
-## ATW AppDev
-Apps make life easier.
+## Welcome to ATW AppDev
+Thanks for being here.
+I am developing apps for learning Japanese language.
+Enjoy learning.
+Let's try!
+頑張りましょう！
+ကြိုးစားကြမယ်！
 
 ### Apps
 ・[Memorise - JLPT Vocab](https://atwappdev.github.io/memorise_jlpt_vocab)
@@ -14,6 +19,6 @@ Apps make life easier.
 ・[Play Store](https://play.google.com/store/apps/dev?id=6155844521377496846)
 
 ### Contact
-[Facebook(Memorise - JLPT Voccab)](https://www.facebook.com/memoriseJlptVocab)
+・[Facebook(Memorise - JLPT Vocab)](https://www.facebook.com/memoriseJlptVocab)
 
 Email: aungthuwinappdev@gmail.com 
