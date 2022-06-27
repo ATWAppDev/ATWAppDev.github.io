@@ -8,7 +8,6 @@ Apps make life easier.
 
 ### Stores
 #### [App Store](https://apps.apple.com/us/developer/aung-thu-win/id1611173054)
-### Play Store
 #### [Play Store](https://play.google.com/store/apps/dev?id=6155844521377496846)
 ##### ------------------------------------------
 
