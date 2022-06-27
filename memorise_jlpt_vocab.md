@@ -39,7 +39,7 @@ JLPT Vocab data from Mr.Jonathan Waller.
 ##### ------------------------------------------
 
 ### Privacy Policy
-[Privacy Policy](https://atwappdev.github.io/privacy_policy)
+[Privacy Policy](https://atwappdev.github.io/memorise_privacy_policy)
 
 ### Contact
 [Facebook](https://www.facebook.com/memoriseJlptVocab)
