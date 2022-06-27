@@ -1,10 +1,20 @@
 ## Welcome to ATW AppDev
 Thanks for being here.
-  I am developing apps for learning Japanese language.
-  Enjoy learning.
-  Let's try!
-  頑張りましょう！
-  ကြိုးစားကြမယ်！
+
+
+I am developing apps for learning Japanese language.
+
+
+Enjoy learning.
+
+
+Let's try!
+
+
+頑張りましょう！
+
+
+ကြိုးစားကြမယ်！
 
 ### Apps
 ・[Memorise - JLPT Vocab](https://atwappdev.github.io/memorise_jlpt_vocab)
