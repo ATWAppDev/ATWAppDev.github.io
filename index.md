@@ -1,4 +1,3 @@
-## Welcome to ATW AppDev
 Thanks for being here.
 
 
