@@ -32,7 +32,7 @@ Audio data from Google Translate
 [https://translate.google.com/](https://translate.google.com/)
 
 ### Downloads(iOS)
-・[Download from App Store](https://apps.apple.com/app/id1611173052)
+・[Download from App Store](https://apps.apple.com/app/id1629309139)
 
 ### Downloads(Android)(Play Store)
 ・(Coming soon)  [Download from Play Store](https://play.google.com/store/apps/details?id=com.atwappdev.jlptvocabmm)
