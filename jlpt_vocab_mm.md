@@ -38,7 +38,7 @@ Audio data from Google Translate
 ・[Download from Play Store](https://play.google.com/store/apps/details?id=com.atwappdev.jlptvocabmm)
 
 ### Downloads(Android)(Others)
-・(Coming soon)  [Download from Amazon App Store](https://www.amazon.com/gp/product/B0B54PFN7V)  
+・[Download from Amazon App Store](https://www.amazon.com/gp/product/B0B54PFN7V)  
 ・[Download from ApkPure](https://apkpure.com/jlpt-vocab-mm/com.atwappdev.jlptvocabmm)
 
 ### Privacy Policy
