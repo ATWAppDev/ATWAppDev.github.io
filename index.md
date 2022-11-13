@@ -8,6 +8,7 @@ Let's try!
 ### Apps
 ・[Memorise - JLPT Vocab](https://atwappdev.github.io/memorise_jlpt_vocab)  
 ・[JLPT Vocab Myanmar](https://atwappdev.github.io/jlpt_vocab_mm)
+・[jAbidan: Japanese Dictionary](https://atwappdev.github.io/jAbidan)
 
 ### Stores
 ・[App Store](https://apps.apple.com/us/developer/aung-thu-win/id1611173054)  
