@@ -12,6 +12,8 @@ Let's try!
 
 ・[jAbidan: Japanese Dictionary](https://atwappdev.github.io/jAbidan)
 
+・[JLPT Vocab Vietnam](https://atwappdev.github.io/jlpt_vocab_vn)
+
 ### Stores
 ・[App Store](https://apps.apple.com/us/developer/aung-thu-win/id1611173054)  
 ・[Play Store](https://play.google.com/store/apps/dev?id=6155844521377496846)
