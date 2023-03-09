@@ -18,8 +18,8 @@ You can:
 study words.  
 practise words.  
 view list of words.  
-memorise by listening words.
-memorise by playing games.
+memorise by listening words.  
+memorise by playing games.  
 
 We recommend you to prepare TTS(Text to Speech) for Vietnamese & Japanese.  
 (Normally, Android/iOS will automatically install necessary voice data when needed.)  
