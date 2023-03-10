@@ -29,9 +29,6 @@ Special thanks:
 JLPT Vocab data(N5~N2) from
 [https://trungtamnhatngu.edu.vn/](https://trungtamnhatngu.edu.vn/)
 
-### Downloads(iOS)
-・ [Download from App Store](https://apps.apple.com/app/id6446159761)
-
 ### Downloads(Android)(Play Store)
 ・ [Download from Play Store](https://play.google.com/store/apps/details?id=com.atwappdev.jlptvocabvn)
 
