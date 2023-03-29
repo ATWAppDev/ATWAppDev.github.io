@@ -20,9 +20,7 @@ Let's try!
 
 ### SNS
 ・[Facebook(Memorise - JLPT Vocab)](https://www.facebook.com/memoriseJlptVocab)  
-
 ・[YouTube(Memorise - JLPT Vocabs)](https://youtube.com/@Memorise-JLPTVocabs)  
-
 ・[TikTok(Memorise - JLPT Vocabs)](https://www.tiktok.com/@memorise_jlpt_vocabs)  
 
 Email: aungthuwinappdev@gmail.com 
