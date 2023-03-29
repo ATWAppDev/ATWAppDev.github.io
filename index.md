@@ -19,8 +19,10 @@ Let's try!
 ・[Play Store](https://play.google.com/store/apps/dev?id=6155844521377496846)
 
 ### SNS
-・[Facebook(Memorise - JLPT Vocab)](https://www.facebook.com/memoriseJlptVocab)
-・[YouTube(Memorise - JLPT Vocabs)](https://youtube.com/@Memorise-JLPTVocabs)
-・[TikTok(Memorise - JLPT Vocabs)](https://www.tiktok.com/@memorise_jlpt_vocabs)
+・[Facebook(Memorise - JLPT Vocab)](https://www.facebook.com/memoriseJlptVocab)  
+
+・[YouTube(Memorise - JLPT Vocabs)](https://youtube.com/@Memorise-JLPTVocabs)  
+
+・[TikTok(Memorise - JLPT Vocabs)](https://www.tiktok.com/@memorise_jlpt_vocabs)  
 
 Email: aungthuwinappdev@gmail.com 
