@@ -12,8 +12,6 @@ Let's try!
 
 ・[jAbidan: Japanese Dictionary](https://atwappdev.github.io/jAbidan)
 
-・[JLPT Vocab Vietnam](https://atwappdev.github.io/jlpt_vocab_vn)
-
 ### Stores
 ・[App Store](https://apps.apple.com/us/developer/aung-thu-win/id1611173054)  
 ・[Play Store](https://play.google.com/store/apps/dev?id=6155844521377496846)
@@ -24,7 +22,3 @@ Let's try!
 ・[TikTok(Memorise - JLPT Vocabs)](https://www.tiktok.com/@memorise_jlpt_vocabs)  
 
 Email: aungthuwinappdev@gmail.com  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-h-GRpzwWMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GAzqxlR3YtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
