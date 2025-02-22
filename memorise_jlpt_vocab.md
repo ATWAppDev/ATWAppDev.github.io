@@ -29,7 +29,7 @@ JLPT Vocab data from Mr.Jonathan Waller.
 [http://www.tanos.co.uk/jlpt/](http://www.tanos.co.uk/jlpt/)
 
 ### Downloads(iOS)
-・ [Download from App Store](https://apps.apple.com/app/id1611173052)
+・ [Download from App Store](https://apps.apple.com/app/id1611173052)   (※No More Available)
 
 ### Downloads(Android)(Play Store)
 ・ [Download from Play Store](https://play.google.com/store/apps/details?id=com.atwappdev.memorise)
