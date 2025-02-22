@@ -13,7 +13,7 @@ Let's try!
 ・[jAbidan: Japanese Dictionary](https://atwappdev.github.io/jAbidan)
 
 ### Stores
-・[App Store](https://apps.apple.com/us/developer/aung-thu-win/id1611173054)  
+・[App Store](https://apps.apple.com/us/developer/aung-thu-win/id1611173054)  (※No More Available)
 ・[Play Store](https://play.google.com/store/apps/dev?id=6155844521377496846)
 
 ### SNS
