@@ -14,7 +14,7 @@ JMdict, created by [Jim Breen](http://nihongo.monash.edu/japanese.html)
 and now managed by the [Electronic Dictionary Research and Development Group (EDRDG)](http://www.edrdg.org/), is a great general dictionary with roughly 170 000 entries and is actively maintained by Jim Breen and a team of volunteers.
 
 ### Downloads(iOS)
-・[Download from App Store](https://apps.apple.com/app/id1645871170)
+・[Download from App Store](https://apps.apple.com/app/id1645871170)  (※No More Available)
 
 ### Downloads(Android)(Play Store)
 ・[Download from Play Store](https://play.google.com/store/apps/details?id=com.atwappdev.jabidan)
